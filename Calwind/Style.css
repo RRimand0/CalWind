@@ -1,9 +1,0 @@
-body{
-    display: flex;
-}
-
-.header{
-    border: 30px solid black;
-    height: 20px;
-    width: 100%;
-}
